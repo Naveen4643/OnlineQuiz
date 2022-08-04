@@ -21,6 +21,8 @@ public class Quiz {
 	@Column(name="totalmarks")
 	private int totalMarks;
 	
+	//private QuizCategory quizcategory;
+	
 	public Quiz() {
 		
 	}
